@@ -2,6 +2,6 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Java And Sql.
 - 💞️ I’m looking to collaborate on GitHub.
-- 📫 How to reach me singhshaurya851@gmail.com 
+- 📫 How to reach me in/shauryasingh26 
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Be Consistent.
