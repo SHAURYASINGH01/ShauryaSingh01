@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SHAURYA SINGH.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java And Sql.
+- 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me singhshaurya851@gmail.com 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Be Consistent.
