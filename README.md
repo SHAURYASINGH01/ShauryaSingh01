@@ -28,7 +28,7 @@
 
 **Databases:**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 
 **Version Control & Collaboration:**
