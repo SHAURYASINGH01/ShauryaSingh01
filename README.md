@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **shauryasingh851@gmail.com**
 
+- 💻 **5⭐** on **HackerRank** in **Python, SQL**
+
 - ⚡ Fun fact **Be Consistent With Studies**
 
 <h3 align="left">Programming Languages:</h3>
