@@ -22,4 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryasingh01&show_icons=true&locale=en" alt="shauryasingh01" /></p>
 
+[![My Skills](https://skillicons.dev/icons?i=oracledb,visualstudio,vscode,idea,)](https://skillicons.dev)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryasingh01&" alt="shauryasingh01" /></p>
