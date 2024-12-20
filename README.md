@@ -47,6 +47,6 @@
 ></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAURYASINGH01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryasingh01&" alt="shauryasingh01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryasingh01&" alt="SHAURYASINGH01" /></p>
 
 <p align="center"> “The Only Impossible Journey Is The One You Never Begin” 🌄🌄 </p>
