@@ -15,7 +15,7 @@
 👨‍💻About Me:
 - 🌱 I’m currently learning **Data Structure And Algorithm, WebDev**
 
-- 👯 I’m looking to collaborate on [GitHub](github.com/SHAURYASINGH01)
+- 👯 I’m looking to collaborate on [GitHubRepository](github.com/SHAURYASINGH01)
 
 - 📫 How to reach me **shauryasingh851@gmail.com**
 
