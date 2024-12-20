@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Shaurya Singh👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryasingh01&label=Profile%20views&color=0e6cb4&style=flat" alt="shauryasingh01" /> </p>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;+Structured+Query+Language;DSA+Solving;Always%20learning%20New%20things&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;+Structured+Query+Language;DSA+Solving;Always%20learning%20New%20things&center=true&width=380&height=45"></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryasingh01&label=Profile%20views&color=0e6cb4&style=flat" alt="shauryasingh01" /> </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=shauryasingh01&theme=juicyfresh&no-bg=true" />
 
