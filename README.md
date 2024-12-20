@@ -39,8 +39,11 @@
 
 **Version Control & Collaboration:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
+<p>
 
 **🔥Streak Stats**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryasingh01&" alt="shauryasingh01" /></p>
+<p align="center"> “The Only Impossible Journey Is The One You Never Begin” 🌄🌄 </p>
