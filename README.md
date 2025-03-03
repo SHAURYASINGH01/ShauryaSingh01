@@ -13,24 +13,35 @@
 <img src="https://github-profile-trophy.vercel.app/?username=shauryasingh01&theme=juicyfresh&no-bg=true" />
 
 👨‍💻About Me:
-- 🌱 I’m currently learning **Data Structure And Algorithm**
+- 🌱 I’m currently learning **Data Structure And Algorithm,Web dev**
 
 - 👯 I’m looking to collaborate on [GitHub-Repository.](github.com/SHAURYASINGH01)
 
 - 📫 How to reach me **shauryasingh851@gmail.com**
 
-- 💻 **5⭐** on **HackerRank** in **Python, SQL**
+- 💻 **5⭐** on **HackerRank** in **Python,SQL**
 
-- ⚡ Fun fact **Be Consistent With Studies**
+- ⚡ Fun fact **Be Consistent,Nature_lover**
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>,https://pixelmechanics.com.sg/wp-content/uploads/2019/06/html5-logo-for-web-development.png,<a> <p>,https://th.bing.com/th/id/OIP.E6gYBOitaeBPAVntT4XS3QHaHa?rs=1&pid=ImgDetMain
+
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,js)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryasingh01&show_icons=true&locale=en" alt="shauryasingh01" /></p>
 
 **Coding Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+
+**Front-end Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css)](https://skillicons.dev)
+
+
+**Back-end Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs)](https://skillicons.dev)
+
 
 **Databases:**
 
@@ -39,14 +50,12 @@
 
 **Version Control & Collaboration:**
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <p>
 
 
-**🔥Streak Stats**
-></p>
-
+## 🔥Streak Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAURYASINGH01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center"> “The Only Impossible Journey Is The One You Never Begin” 🌄🌄 </p>
