@@ -13,7 +13,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=shauryasingh01&theme=juicyfresh&no-bg=true" />
 👨‍💻About Me:
 
-- 🌱 I’m currently learning **DataStructureAndAlgorithm , Web dev**
+- 🌱 I’m currently learning **Data Structure And Algorithm, Web dev**
 
 - 👯 I’m looking to collaborate on [GitHub-Repository.](github.com/SHAURYASINGH01)
 
