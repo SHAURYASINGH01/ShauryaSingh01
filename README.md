@@ -11,7 +11,6 @@
 
 ## &nbsp;🏆 GitHub Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=shauryasingh01&theme=juicyfresh&no-bg=true" />
-
 👨‍💻About Me:
 - 🌱 I’m currently learning **Data Structure And Algorithm,Web dev**
 
