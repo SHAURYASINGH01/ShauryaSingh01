@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaurya Singh👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;+Full+Stack+Web+Developer;+Problem+Solver;+AI;Always%20learning%20New%20things&center=true&width=380&height=45"
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;+Full+Stack+Web+Developer;+Problem+Solver;+Artificial+Intelligence;Always%20learning%20New%20things&center=true&width=380&height=45"
 ></a>
 </p>
 
