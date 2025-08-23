@@ -60,4 +60,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=💻Code+with+passion;🔍Debug+with+patience;🚀Deploy+with+confidence&center=true&width=380&height=45&font=Fira+Code&color=0e6cb4&size=22" />
   </a>
 </p>
-</p>
