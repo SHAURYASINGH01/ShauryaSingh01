@@ -32,7 +32,7 @@
 
 **Front-end Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react)](https://skillicons.dev)
 
 
 **Back-end Frameworks:**
