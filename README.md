@@ -32,7 +32,7 @@
 
 **Front-end Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,typescript)](https://skillicons.dev)
 
 
 **Back-end Frameworks:**
@@ -44,10 +44,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
+**Containerization:**
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
 **Version Control & Collaboration:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion)](https://skillicons.dev)
 
 <p>
 
