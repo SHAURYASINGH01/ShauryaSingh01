@@ -17,7 +17,7 @@
 - 🌱 Currently deepening my knowledge in **Data Structures & Algorithms** and **Web Development**  
 - 👯 Open to collaboration on: [GitHub repositories](https://github.com/SHAURYASINGH01)  
 - 💻 Proud to hold **5⭐ HackerRank badges** in **Python** and **SQL** 
-- ⚡ Fun fact: *I’m a nature❤️ who finds quiet strength in the rustle of leaves.*
+- ⚡ Fun fact: *I’m a nature lover❤️ who finds quiet strength in the rustle of leaves.*
 
 <h3 align="left">Tech Stack💡</h3>
 
