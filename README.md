@@ -19,7 +19,7 @@
 - 💻 Proud to hold **5⭐ HackerRank badges** in **Python** and **SQL** 
 - ⚡ Fun fact: *I’m a nature lover❤️ who finds quiet strength in the rustle of leaves.*
 
-<h3 align="left">Tech Stack💡</h3>
+<h3 align="left">Programming: </h3>
 
 [![Programming Skills:](https://skillicons.dev/icons?i=c,cpp,python,java,js,linux)](https://skillicons.dev)
 
