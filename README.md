@@ -45,7 +45,7 @@
 
 **Containerization:**
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,Docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev)
 
 **Version Control & Collaboration:**
 
