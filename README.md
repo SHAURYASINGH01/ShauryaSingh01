@@ -3,7 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;+Full+Stack+Web+Developer;+Problem+Solver;+Artificial+Intelligence;Always%20learning%20New%20things&center=true&width=380&height=45">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 <img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" alt="Creative Coder" width="120" style="float: left; margin-right: 20px;" />
 
 <p> 
