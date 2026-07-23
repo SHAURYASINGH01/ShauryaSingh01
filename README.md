@@ -23,13 +23,14 @@
 
 <h3 align="left">Programming: </h3>
 
-[![Programming Skills:](https://skillicons.dev/icons?i=c,cpp,python,java,js,WindowTerminal)](https://skillicons.dev)
+[![Programming Skills:](https://skillicons.dev/icons?i=c,cpp,python,java,js)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryasingh01&show_icons=true&locale=en" alt="shauryasingh01" /></p>
 
 **Coding Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 **Front-end Frameworks:**
 
