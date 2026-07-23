@@ -23,7 +23,7 @@
 
 <h3 align="left">Programming: </h3>
 
-[![Programming Skills:](https://skillicons.dev/icons?i=c,cpp,python,java,js,linux)](https://skillicons.dev)
+[![Programming Skills:](https://skillicons.dev/icons?i=c,cpp,python,java,js,WindowTerminal)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryasingh01&show_icons=true&locale=en" alt="shauryasingh01" /></p>
 
@@ -51,7 +51,7 @@
 
 **Version Control & Collaboration:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,vercel)](https://skillicons.dev)
 
 <p>
 
